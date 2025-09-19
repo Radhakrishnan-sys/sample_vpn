@@ -1,2 +1,3 @@
 # TO Run the script:
-python connect_vpn.py
+
+python vpn_automator_wireguard.py

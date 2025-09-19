@@ -1,3 +1,5 @@
 python-dotenv
 selenium
 webdriver-manager 
+wireguard
+wireguard-tools
